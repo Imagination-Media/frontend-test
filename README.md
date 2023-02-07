@@ -1,4 +1,4 @@
-# frontend-test
+# Imagination Media FrontEnd Test
 
 ### The goal is to create a simple e-commerce flow
 
