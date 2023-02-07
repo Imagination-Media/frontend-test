@@ -16,7 +16,7 @@
     
 -   [ ] Add product to bag
     
--   [ ] Checkout page showing products added to the bag and cart totals
+-   [ ] Cart page ( must show products added to the cart and cart totals)
 
 **Requirements**
 -   The application should use server-side render
@@ -24,3 +24,12 @@
 
 **Extras (it will count as a good point if you want to add)**
 - [ ] Tests with cypress
+
+**Here is a layout that can be used as a reference for pages**
+
+
+![](https://raw.githubusercontent.com/Imagination-Media/frontend-test/master/ListProductsPage.png)
+
+![](https://raw.githubusercontent.com/Imagination-Media/frontend-test/master/PDP.png)
+
+![](https://raw.githubusercontent.com/Imagination-Media/frontend-test/master/CartPage.png)
