@@ -21,6 +21,9 @@
 **Requirements**
 -   The application should use server-side render
 -   The application must be written in typescript using NextJS
+-   Use products.json to mock data on list products page
+-   Use product.json to mock data on Product Detail Page
+-   Use cart.json to mock data on Cart page
 
 **Extras (it will count as a good point if you want to add)**
 - [ ] Tests with cypress
